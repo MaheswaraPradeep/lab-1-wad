@@ -1,0 +1,44 @@
+*{
+    font-family: sans-serif;
+    color: white;
+}
+form{
+    background-color: rgb(114, 206, 114);
+    width:25%;
+    margin: 20px;
+    padding-left: 15px;
+}
+h2{
+    text-align: center;
+    font-size: 25px;
+}
+input[type="text"]{
+    background-color: white;
+    width: 75%;
+    border: 0px white;
+    padding: 12px;
+    margin-bottom: 20px;
+    margin-top: 10px;
+}
+input[type="password"]{
+    background-color: white;
+    width: 75%;
+    border: 0px white;
+    padding: 12px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+input[type="checkbox"]{
+    margin-bottom: 15px;
+}
+a:link{
+    color: blue;
+    margin-bottom: 15px;
+}
+#login{
+    padding:1px 5%;
+    background-color: black;
+    width:75%;
+    text-align: center;
+    margin-bottom;:10px;
+}
